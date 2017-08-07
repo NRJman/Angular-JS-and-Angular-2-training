@@ -6,3 +6,6 @@ If the number of items in the textbox is less than or equal to 3 (e.g., 1, 2, or
 If the textbox is empty and the user clicks the "Check If Too Much" button, the message "Please enter data first" should show up. 'Empty' here means either `""` (empty string) or a string with just spaces in it. (Hint: AngularJS `ng-model` already performs the trimming for you, so there shouldn't be anything you need to do.)
 
 Only 1 message should be shown at any given time. In other words, if you have both messages "Enjoy!" and "Too much!" showing up at the same time, it's an error.
+
+### Running
+Follow [the link](https://cdn.rawgit.com/NRJman/AngularJS-training/49b1eb43/Lunch%20Checker/index.html) to run this app.
